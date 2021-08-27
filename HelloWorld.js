@@ -8,3 +8,9 @@ function helloWorld(){
 }
 
 helloWorld();
+
+function getName(){
+    var name = "Dinh";
+    console.log(name + "92");
+}
+getName();
