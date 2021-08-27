@@ -8,3 +8,5 @@ function countNumber(){
 }
 
 countNumber();
+
+console.log("Lập trinh viên a thay doi file Count.js");
