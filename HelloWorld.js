@@ -14,3 +14,5 @@ function getName(){
     console.log(name + "92");
 }
 getName();
+
+console.log("Lập trình viên A thay đổi file");
